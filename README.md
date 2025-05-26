@@ -1,3 +1,7 @@
+# Why Fork?
+
+This fork is used to publish [this wasmJs support PR](https://github.com/modelcontextprotocol/kotlin-sdk/pull/81) in order for it to be used by the [Solenne chat app](https://github.com/simon-duchastel/solenne-chat). Once that PR is merged, this fork can safely be archived.
+
 # MCP Kotlin SDK
 
 [![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-Multiplatform-blueviolet?logo=kotlin)](https://kotlinlang.org/docs/multiplatform.html)
